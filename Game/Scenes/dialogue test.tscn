@@ -1,4 +1,4 @@
-[gd_scene load_steps=19 format=3 uid="uid://40wngf47s3uf"]
+[gd_scene load_steps=19 format=3 uid="uid://b8xswt2ao3rtn"]
 
 [ext_resource type="MeshLibrary" uid="uid://bmxsb4g7jp3c3" path="res://Assets/Tile Sets/tileSet.tres" id="1_oxkg4"]
 [ext_resource type="Script" path="res://Scripts/playerMovement.gd" id="2_x7362"]
@@ -6,7 +6,7 @@
 [ext_resource type="Script" path="res://Scripts/actionable.gd" id="4_snlh1"]
 [ext_resource type="Resource" uid="uid://c4b5du6lf0c6g" path="res://Dialogue/testDialogue.dialogue" id="5_xanhj"]
 [ext_resource type="Script" path="res://Scripts/lookAtPlayer.gd" id="6_t8vyl"]
-[ext_resource type="Material" uid="uid://bnj7x1ybf6fpy" path="res://Assets/Materials/test_character.tres" id="6_uq17u"]
+[ext_resource type="Material" path="res://Assets/Materials/test_character.tres" id="6_uq17u"]
 
 [sub_resource type="Curve" id="Curve_x6p1d"]
 _data = [Vector2(0, 0), 0.0, 0.0, 0, 0, Vector2(1, 1), 0.0, 0.0, 0, 0]
